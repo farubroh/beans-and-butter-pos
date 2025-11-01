@@ -1,24 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Beans & Butter POS — Project Plan</title>
-  <style>
-    body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;line-height:1.6;color:#0f172a;margin:28px;max-width:980px}
-    h1,h2,h3{color:#0b1220}
-    header{border-bottom:1px solid #e6edf3;padding-bottom:12px;margin-bottom:18px}
-    pre{background:#0b1220;color:#e6edf3;padding:12px;border-radius:8px;overflow:auto}
-    code{background:#f3f6f9;padding:2px 6px;border-radius:4px}
-    .badge{display:inline-block;padding:4px 8px;border-radius:999px;background:#eef2ff;color:#1e3a8a;font-weight:600;margin-right:8px;font-size:12px}
-    ul{margin-left:18px}
-    section{margin-top:16px}
-    .toc a{display:inline-block;margin-right:10px;margin-bottom:6px}
-    .meta{font-size:14px;color:#334155}
-    .note{background:#fff7ed;border-left:4px solid #f97316;padding:10px;border-radius:6px}
-  </style>
-</head>
-<body>
+
   <header>
     <h1>Beans &amp; Butter POS System — Full Project Plan</h1>
     <p class="meta">Cloud-hosted, lightweight POS for Beans &amp; Butter Café — orders, printing, inventory, financials, and AI insights.</p>
@@ -192,8 +172,5 @@ ng new frontend --style=scss --routing
     <p style="margin-top:8px">If you want, I can also generate a Markdown README.md version or create the initial repository structure with starter files.</p>
   </section>
 
-  <footer style="margin-top:22px;border-top:1px solid #eef2f7;padding-top:12px;color:#475569;font-size:14px">
-    Created for <strong>Beans &amp; Butter Café</strong>. — Save this file as <code>README.html</code> in your GitHub repo or convert it to <code>README.md</code> for GitHub's default rendering.
-  </footer>
-</body>
-</html>
+ 
+
